@@ -1,6 +1,6 @@
 # POC using AI to access your own data
 
-###Setup
+### Setup
 
 - Spring Boot
 - Spring AI
