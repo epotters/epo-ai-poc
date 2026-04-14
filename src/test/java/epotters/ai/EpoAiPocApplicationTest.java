@@ -1,13 +1,15 @@
-package epotters.epo_ai_poc;
+package epotters.ai;
+
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class EpoAiPocApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+@SpringBootTest
+class EpoAiPocApplicationTest {
+
+  @Test
+  void contextLoads() {
+  }
 
 }
